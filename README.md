@@ -6,6 +6,8 @@ The workflow involves using NetBeans IDE for Java development, MySQL for databas
 
 **Creating product and sales tables in the MySQL database**
 ![image](https://github.com/Bagyalakshmi1429/PHARMACY-INVENTORY-MANAGEMENT-SYSTEM---JAVA/assets/142560918/416b4271-214a-47bd-89df-d72dcd09108d)
+
+
 ![image](https://github.com/Bagyalakshmi1429/PHARMACY-INVENTORY-MANAGEMENT-SYSTEM---JAVA/assets/142560918/1d81244f-cc70-4e24-b8f0-9501b4f1be2a)
 
 Setting up the product table with columns like id, product name, quantity, and price.
